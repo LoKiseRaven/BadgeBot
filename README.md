@@ -1,3 +1,5 @@
+# Discord Bot Active Developer Badge 
+
 ## Requirements
 
 ### Python
