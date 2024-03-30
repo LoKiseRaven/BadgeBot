@@ -34,4 +34,4 @@ pip install discord-py
 After using the /hello command, you'll have to wait at least 24 hours to be able to claim your badge at [Active Developer Badge](https://discord.com/developers/active-developer).
 
 > [!IMPORTANT]
-> The /hello command may not be available immediately after starting the bot; it could take up to an hour to become accessible.
+> The /hello command may not be available immediately after starting the bot. It could take up to an hour to become accessible.
