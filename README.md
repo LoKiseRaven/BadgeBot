@@ -17,7 +17,7 @@ pip install discord-py
 ## Creating a bot 
 
 1) First go to [Discord Developer Portal](https://discord.com/developers/applications)
-2) Then click on "Create an application" on the top right corner
+2) Then click on "New application" on the top right corner, and give it a name (the name doesn't really matter)
 3)  Go to OAuth2
 4) Check `bot` and `applications.commands`
 5) Scroll to `BOT PERMISSIONS`
