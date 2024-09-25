@@ -4,7 +4,7 @@
 
 ### Python
 
-First, you neee to have Python installed, version 3 or higher. If you don't have it, simply install it through [Python installation page](https://www.python.org/downloads/)
+First, you need to have Python installed, version 3 or higher. If you don't have it, simply install it through [Python installation page](https://www.python.org/downloads/)
 
 
 ### Discord.py
